@@ -1,1 +1,3 @@
-.idea/git status
+.idea/*
+__pycache__/
+*.pyc
